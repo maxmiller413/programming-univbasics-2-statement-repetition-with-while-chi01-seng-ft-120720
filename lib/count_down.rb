@@ -1,1 +1,1 @@
-# Write your code here
+while # Write your code here
